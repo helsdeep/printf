@@ -1,5 +1,7 @@
 0x11. C - printf
 
+A project by Kwanusu & Femi Sokoya
+
 This team project is part of the curriculum of ALX. _printf replicates the C standard library printf(>
 
 By the end of this project you should be familiar with the following:
